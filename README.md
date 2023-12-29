@@ -14,13 +14,13 @@ Minesweeper is a classic single-player puzzle game where the objective is to cle
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/minesweeper.git
+    git clone https://github.com/your-username/Minesweeper.git
     ```
 
 3. Navigate to the project directory:
 
     ```bash
-    cd minesweeper
+    cd Minesweeper
     ```
 
 4. Run the Minesweeper game:
